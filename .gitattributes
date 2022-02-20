@@ -1,0 +1,2 @@
+Settings/** filter=git-crypt diff=git-crypt
+Settings/etc/config/network filter=git-crypt diff=git-crypt
